@@ -1,0 +1,31 @@
+
+
+1) Print all the numbers between 1 and 100 (inclusive)
+
+2) People were asked their top 3 foods. The results are stored in a multi-dimensional list as follows:
+	favourite_foods = [['cheese', 'pizza', 'pasta'], ['sausages', 'lettuce', 'grapes'], ...]
+	
+	Print all the second favourite foods from the list favourite_foods. Note:
+	- The length of favourite_foods is unknown so be sure to handle this
+	- All foods are in order
+	
+
+3) For all the numbers between 1 and 1000, print all numbers that are divisible by both 5 and 3
+
+4) Set an integer variable called 'target' and set it to a random number between 1-20. 
+	Ask the user to input a number between 1 and 20.
+	If the guess is too low or too high, print this to the screen and allow the user to keep trying.
+	Only exit if the user guesses the number correctly
+	
+
+5) Ask the user to input 5 integers. 
+	Calculate the sum of the inputs and print it to the console
+	
+
+6) Write a program to count the number of even and odd numbers between 1700 and 3900 in the following format:
+	Number of even numbers : x
+	Number of odd numbers : y
+	
+
+7) Write a program that accepts a string input by the user and calculates the number of characters and prints all the vowels. 
+	If the input string is less than 4 characters, print and error to the screen instead
